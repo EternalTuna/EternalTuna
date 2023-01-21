@@ -2,7 +2,7 @@
 - 👀 I’m interested in self-development
 - 🌱 I’m currently learning CSS Architecture (BEM)
 - 💞️ I’m looking to collaborate on my GF
-- 📫 How to reach me DevAlx@yandex.ru
+- 📫 How to reach me evgeniy@thenextproject.ru
 
 <!---
 EternalTuna/EternalTuna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
