@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EternalTuna
-- 👀 I’m interested in self-development
-- 🌱 I’m currently learning CSS Architecture (BEM)
-- 💞️ I’m looking to collaborate on my GF
+- 👀 I’m interested to became middle level
+- 🌱 I’m currently learning new Vue, pinia, vite
+- 💞️ I’m looking to collaborate on anyone who interested
 - 📫 How to reach me evgeniy@thenextproject.ru
 
 <!---
