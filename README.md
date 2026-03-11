@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EternalTuna
-- 👀 I’m interested to became middle level
-- 🌱 I’m currently learning new Vue, pinia, vite
+- 👀 I’m interested to became middle fullstack
+- 🌱 I’m currently learning software engineering ✨
 - 💞️ I’m looking to collaborate on anyone who interested
 - 📫 How to reach me evgeniy@thenextproject.ru
 
